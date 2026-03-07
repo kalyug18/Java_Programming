@@ -18,11 +18,11 @@ class Main {
       	str.add("Ran");  
       
       	// Printing ArrayList
-      	System.out.println(Old array list :"+ str);
+      	System.out.println("Old array list :"+ str);
 
 	//adding an element to a specific index	
 	str.add(2,"18");
-	System.out.println(New array list :"+ str);
+	System.out.println("New array list :"+ str);
 
 	//removing an element.
 	str.remove(2);
